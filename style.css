@@ -1,5 +1,5 @@
 #container{
-     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYqx4xee3x10zldALzdbbZ0E-gEJXoq3W8A&usqp=CAU);
+     background-image: url(https://img.freepik.com/free-photo/man-woman-unpacking-boxes_23-2147694400.jpg);
     background-position: initial;
     background-size: cover;
     background-repeat: no-repeat;
@@ -22,6 +22,8 @@
 
     .text{
         font-display:inherit;
+        padding-left: 26%;
+
         
     }
 
